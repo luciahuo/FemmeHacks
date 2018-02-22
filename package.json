@@ -1,5 +1,5 @@
 {
-  "name": "FemmeHacks Site",
+  "name": "FemmeHacksSite",
   "version": "0.0.0",
   "description": "Site for awesome all-female hacakthon",
   "engines": {
@@ -7,7 +7,7 @@
   },
   "main": "js/main.js",
   "scripts": {
-    "start": "node js/main.js",
+    "start": "node js/main.js"
   },
   "dependencies": {
     "ejs": "^2.5.6",
